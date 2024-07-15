@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dawid Laska
+# Hi, I'm Dawid Laska
 
 ## 💫 About Me:
 I am a passionate Full-stack Developer with a solid knowledge of Web technologies like ASP.NET Core, .NET, C#, SQL, React, HTML, CSS and Javascript. I enjoy developing projects with clean and readable code that meet the coding standards and scale effectively.
